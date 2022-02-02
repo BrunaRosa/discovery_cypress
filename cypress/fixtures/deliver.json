@@ -1,0 +1,50 @@
+{
+    "signup": {
+        "name": "Bruna Vieira",
+        "cpf": "64690474087",
+        "email": "bruna.vieira@hotmail.com",
+        "whatsapp": "11987629876",
+        "address": {
+            "postalcode": "04534011",
+            "street": "Rua Joaquim Floriano",
+            "number": "123", 
+            "details": "Casa 3",
+            "district": "Itaim Bibi",
+            "city_state": "São Paulo/SP"
+        },
+        "delivery_method": "Moto",
+        "cnh": "/images/cnh-digital.jpg"
+    },
+    "cpf_invalid":{
+        "name": "Marcelo Mendes",
+        "cpf": "x64690474aa7",
+        "email": "marcelo.mendes@hotmail.com",
+        "whatsapp": "11987629876",
+        "address": {
+            "postalcode": "04534011",
+            "street": "Rua Joaquim Floriano",
+            "number": "123", 
+            "details": "Casa 3",
+            "district": "Itaim Bibi",
+            "city_state": "São Paulo/SP"
+        },
+        "delivery_method": "Bike Elétrica",
+        "cnh": "/images/cnh-digital.jpg"
+    },
+    "email_invalid": {
+        "name": "Bruna Vieira",
+        "cpf": "64690474087",
+        "email": "bruna.vieira.com.br",
+        "whatsapp": "11987629876",
+        "address": {
+            "postalcode": "04534011",
+            "street": "Rua Joaquim Floriano",
+            "number": "123", 
+            "details": "Casa 3",
+            "district": "Itaim Bibi",
+            "city_state": "São Paulo/SP"
+        },
+        "delivery_method": "Moto",
+        "cnh": "/images/cnh-digital.jpg"
+    }
+}
